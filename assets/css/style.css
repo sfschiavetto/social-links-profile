@@ -9,11 +9,13 @@ body{
 .profile-name{
     color: hsl(0, 0%, 100%);
     font-family: "Inter", sans-serif;
+    font-weight: 700;
 }
 
 .profile-locale{
     color: hsl(75, 94%, 57%);
     font-family: "Inter", sans-serif;
+    font-weight: 600;
 }
 
 
@@ -45,6 +47,7 @@ p{
     color: hsl(0, 0%, 70%);
     font-size: 14px;
     font-family: "Inter", sans-serif;
+    font-weight: 400;
 }
 
 .social{
